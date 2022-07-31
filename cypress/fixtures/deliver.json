@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Vinicius Oliveira",
+        "cpf": "00000012398",
+        "email": "vinicius@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "04551060",
+            "street": "Rua Funchal",
+            "number": "1000",
+            "details": "Ap 322",
+            "district": "Vila Olímpia",
+            "city_state": "São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Smith",
+        "cpf": "0000001AA98",
+        "email": "test@hotmail.com",
+        "whatsapp": "119999992222",
+        "address": {
+            "postalcode": "04551060",
+            "street": "Rua Funchal",
+            "number": "1000",
+            "details": "Ap 322",
+            "district": "Vila Olímpia",
+            "city_state": "São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "João Smith",
+        "cpf": "00000012398",
+        "email": "test.com.br",
+        "whatsapp": "119999992222",
+        "address": {
+            "postalcode": "04551060",
+            "street": "Rua Funchal",
+            "number": "1000",
+            "details": "Ap 322",
+            "district": "Vila Olímpia",
+            "city_state": "São Paulo/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    }
+}
